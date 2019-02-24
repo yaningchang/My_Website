@@ -19,18 +19,18 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  #description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "network-wired"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Neural Network Modelling and Deep Learning"
+  #description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Neuroimaging Tools"
+  #description = "70%"
 
 +++
