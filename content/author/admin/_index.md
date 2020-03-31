@@ -6,7 +6,7 @@ name = "Ya-Ning Chang"
 superuser = true
 
 # Role/position
-role = "Research Associate"
+role = "Senior Research Associate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -21,7 +21,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Language Processing",
-  "Neural Network and Deep Learning",
+  "Neural Network Modelling and Deep Learning",
   "Corpus Linguistics",
   "Literacy Development"
 ]
@@ -29,11 +29,11 @@ interests = [
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in Psychology"
-  institution = "University of Manchester"
+  institution = "University of Manchester, UK"
 
 [[education.courses]]
   course = "MSc in Cognitive Science"
-  institution = "University of Edinburgh"
+  institution = "University of Edinburgh, UK"
 
 #[[education.courses]]
 #  course = "BSc in Artificial Intelligence"
