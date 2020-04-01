@@ -1,10 +1,10 @@
 +++
-title = "A computational model of reading across development: Effects of literacy onset on language processing"
-date = 2019-10-31T21:39:47+01:00
+title = "A unified neurocomputational bilateral pathway model of spoken language production in healthy participants and recovery in post-stroke aphasia"
+date = 2020-03-01T23:04:17+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ya-Ning Chang", "Stephen Welbourne", "Padraic Monaghan"]
+authors = ["Ya-Ning Chang", "Matthew Lambon Ralph"]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["Ya-Ning Chang", "Stephen Welbourne", "Padraic Monaghan"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Memory and Language"
-publication_short = "JML"
+publication = ""
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -50,8 +50,8 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
-url_code = "https://github.com/yaningchang/Chang_Monaghan_Welbourne_AoA_Paper_for_JML.git"
+url_preprint = "https://doi.org/10.1101/2020.02.21.959239"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1016/j.jml.2019.05.003"
+doi = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -74,5 +74,5 @@ doi = "https://doi.org/10.1016/j.jml.2019.05.003"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = ""
 +++

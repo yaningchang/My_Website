@@ -18,23 +18,21 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Senior Research Associate"
   company = "Lancaster University"
   company_url = ""
   location = "UK"
-  #date_start = "2017-01-01"
-  #date_end = ""
-  #description = """
-  #Responsibilities include:
+  date_start = "2015-03-01"
+  date_end = "2018-02-01"
 
 [[experience]]
   title = "Postdoctoral Fellow"
   company = "Academia Sinica"
-  #company_url = ""
+  company_url = ""
   location = "Taiwan"
-  #date_start = "2016-01-01"
-  #date_end = "2016-12-31"
-  #description = """Taught electronic engineering and researched semiconductor physics."""
-
+  date_start = "2013-08-01"
+  date_end = "2015-02-26"
+  
 +++

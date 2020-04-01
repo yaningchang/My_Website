@@ -1,10 +1,10 @@
 +++
-title = "A computational model of reading across development: Effects of literacy onset on language processing"
-date = 2019-10-31T21:39:47+01:00
+title = "The relationships between oral language and reading instruction: Evidence from a computational model of reading"
+date = 2019-12-01T22:55:27+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ya-Ning Chang", "Stephen Welbourne", "Padraic Monaghan"]
+authors = ["Ya-Ning Chang", "J. S. H. Taylor", "Kathleen Rastle", "Padraic Monaghan"]
 
 # Publication type.
 # Legend:
@@ -15,18 +15,18 @@ authors = ["Ya-Ning Chang", "Stephen Welbourne", "Padraic Monaghan"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Memory and Language"
-publication_short = "JML"
+publication = ""
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -50,8 +50,8 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
-url_code = "https://github.com/yaningchang/Chang_Monaghan_Welbourne_AoA_Paper_for_JML.git"
+url_preprint = "10.31234/osf.io/tny9k"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1016/j.jml.2019.05.003"
+doi = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -74,5 +74,5 @@ doi = "https://doi.org/10.1016/j.jml.2019.05.003"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = ""
 +++
