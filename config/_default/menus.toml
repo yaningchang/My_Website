@@ -9,19 +9,29 @@
   weight = 1
 
 [[main]]
+    name = "Research"  # A name for the link.
+    url = "#research"  # URL of the section.
+    weight = 2  # Position of the link in the menu.
+
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 3
+    
+[[main]]
   name = "Publications"
   url = "#publications_featured"
-  weight = 2
+  weight = 3
 
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 3
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 3
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 3
 
 #[[main]]
 #  name = "Tutorials"
@@ -32,7 +42,7 @@
   name = "Contact"
   url = "#contact"
   weight = 4
-
+    
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]

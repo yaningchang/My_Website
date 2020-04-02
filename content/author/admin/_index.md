@@ -60,10 +60,10 @@ interests = [
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=mWciP2sAAAAJ&hl=en"
 
-#[[social]]
-#  icon = "github"
-#  icon_pack = "fab"
-#  link = "https://github.com/gcushen"
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/yaningchang"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -74,4 +74,4 @@ interests = [
 
 +++
 
-My work involves using a combination of computational modelling (neural network modelling), behavioural studies, and corpus analysis to investigate various aspects of language processing and how the processes are related to education, learning, and memory. 
+My work involves using a combination of computational modelling, behavioural studies, and corpus analysis to investigate various aspects of language processing and how the processes are related to education, learning, and memory. I have applied computational modelling to word reading in different populations including children, adults and patients. For instance, how environmental and developmental factors affect learning to read and their implications for teaching practice. I am also interested in cross-linguistic differences in different reading systems (e.g., English versus Chinese). 

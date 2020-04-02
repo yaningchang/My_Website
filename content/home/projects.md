@@ -1,13 +1,13 @@
 +++
 # Projects widget.
 widget = "projects"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
-title = "Projects"
+title = "Research Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 9
 
 # Content.
 # Display content from the following folder.
@@ -36,7 +36,7 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
+#[[filter]]
 #   name = "All"
 #   tag = "*"
 #
@@ -49,4 +49,5 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
-
+## Project 1
+- descriptions

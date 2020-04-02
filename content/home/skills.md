@@ -1,7 +1,7 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Skills"
 subtitle = ""
@@ -20,7 +20,13 @@ weight = 7
   icon_pack = "fab"
   name = "R"
   #description = "90%"
-  
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  #description = "90%"
+    
 [[feature]]
   icon = "network-wired"
   icon_pack = "fas"
