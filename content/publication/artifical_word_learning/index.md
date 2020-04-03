@@ -4,7 +4,7 @@ date = 2019-12-01T22:55:27+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ya-Ning Chang", "J. S. H. Taylor", "Kathleen Rastle", "Padraic Monaghan"]
+authors = ["**Ya-Ning Chang**", "J. S. H. Taylor", "Kathleen Rastle", "Padraic Monaghan"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Ya-Ning Chang", "J. S. H. Taylor", "Kathleen Rastle", "Padraic Monag
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "*PsyArxiv*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "To become a proficient reader, children must learn mappings between print, sound and meaning. Using learning of artificial orthographies, studies have compared print-to-sound or print-to-meaning focused reading training and demonstrated that print-to-sound training is superior for learning to read. However, the extent to which this advantage is dependent on prior acquisition of effective oral language skills remains unclear. To explore this issue, we developed a series of computational models of reading incorporating orthographic, phonological and semantic processing to simulate both artificial and natural orthographic learning conditions in adults and children. We exposed the models to sound- or meaning-focused reading training, but tested the influence of the models’ oral language proficiency on the effectiveness of these training regimes. Overall, the simulations showed that oral language skills are a key determinant of the behavioural advantage of print-to-sound focused reading training. The results emphasise that early reading training should address development of both oral language skills and print-to-sound mappings."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)

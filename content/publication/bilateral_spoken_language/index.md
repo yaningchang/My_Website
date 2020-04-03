@@ -1,10 +1,10 @@
 +++
 title = "A unified neurocomputational bilateral pathway model of spoken language production in healthy participants and recovery in post-stroke aphasia"
-date = 2020-03-01T23:04:17+01:00
+date = 2020-02-01T23:04:17+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ya-Ning Chang", "Matthew Lambon Ralph"]
+authors = ["**Ya-Ning Chang**", "Matthew Lambon Ralph"]
 
 # Publication type.
 # Legend:
@@ -18,12 +18,12 @@ authors = ["Ya-Ning Chang", "Matthew Lambon Ralph"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "*bioRxiv*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+abstract = "Language is a critical human ability. When impaired, it has significant impacts on everyday life from social well being to quality of life. Therefore, understanding of the processes underlying normal, impaired and recovered language performance has been a long-standing goal for cognitive-clinical neuroscience. The vibrant studies of healthy language and impaired language have generated many verbally described hypotheses about language lateralisation and recovery. However, they have not been considered within a single, unified and implemented computational framework, and the literatures on healthy participants and patients are largely separated. These investigations also span different types of data, including behavioural results and fMRI brain activations, that augments the challenge for any unified theory. As a result, there are many key issues, apparent contradictions and puzzles that need to be solved. Here, we developed a neurocomputational, bilateral pathway model of spoken language production, designed to provide a unified framework to assimilate different types of data from healthy participants and aphasic patients. The model encapsulates various key computational principles (differential computational resources, emergent division of labour across pathways, experience-dependent plasticity-related recovery). In doing so, the model provides an explanation for the bilateral yet asymmetric lateralisation of language in healthy participants, chronic aphasia after left rather than right hemisphere lesions, and the basis of partial recovery of function in patients (reflecting a combination of retuning within the damage pathway and a changed division of labour across pathways). Also, the model provides a formal basis for understanding the relationship between behavioural performance and brain activation. Overall, the unified model is consistent with the degeneracy and variable displacement theories of language recovery, and adds computational insights to these hypotheses in terms of the neural machinery underlying language processing and plasticity-related recovery following damage."
+abstract_short = "The model encapsulates various key computational principles (differential computational resources, emergent division of labour across pathways, experience-dependent plasticity-related recovery). In doing so, the model provides an explanation for the bilateral yet asymmetric lateralisation of language in healthy participants, chronic aphasia after left rather than right hemisphere lesions, and the basis of partial recovery of function in patients (reflecting a combination of retuning within the damage pathway and a changed division of labour across pathways). Also, the model provides a formal basis for understanding the relationship between behavioural performance and brain activation."
 
 # Is this a featured publication? (true/false)
 featured = true

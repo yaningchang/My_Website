@@ -33,7 +33,7 @@ weight = 9
 
 ## **Cross-linguistic comparison and bilingualism**
    - The reading effects in English versus Chinese
-   - The effect of phonetic distance on L2 vocabulary learning
+   - The influences of phonetic distance on L2 vocabulary learning
 
 
 
